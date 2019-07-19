@@ -54,10 +54,13 @@ body {
   z-index: 1; }
 
 .modal-content .modal-header {
-  background: #512DA8; }
+  background: black; }
 
 .modal-content .modal-title {
   color: #fff; }
 
 .modal-content .modal-body {
   background: #D1C4E9; }
+
+.dios {
+  display: none; }

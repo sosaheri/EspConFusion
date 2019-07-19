@@ -81,7 +81,7 @@ body{
 .modal-content{
 
     .modal-header {
-        background: $background-dark;
+        background: black;
     }
 
     .modal-title {
@@ -93,5 +93,8 @@ body{
     }
 }
 
+.dios{
+    display:none;
+}
 
 
